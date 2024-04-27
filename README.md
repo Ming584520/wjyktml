@@ -34,5 +34,4 @@ https://你的域名/index/api/timeOne
 
 https://你的域名/coller.php
 
-网站截图
 
